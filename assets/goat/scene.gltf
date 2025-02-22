@@ -1,0 +1,269 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2202,
+      "max": [
+        117.72864532470703,
+        597.3659057617188,
+        654.3424072265625
+      ],
+      "min": [
+        -117.67814636230469,
+        -360.524658203125,
+        -0.0016326387412846088
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26424,
+      "componentType": 5126,
+      "count": 2202,
+      "max": [
+        0.9997002482414246,
+        0.9961553812026978,
+        0.9852920174598694
+      ],
+      "min": [
+        -0.9996983408927917,
+        -0.9962911009788513,
+        -0.9999948143959045
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2202,
+      "max": [
+        0.9394530057907104,
+        0.9763180017471313
+      ],
+      "min": [
+        0.012870999984443188,
+        0.0239260196685791
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2202,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "sinork123 (https://sketchfab.com/sinork123)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/goat-f78ad5dfb4cf4400a006a46ffe2889f8",
+      "title": "Goat"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17616,
+      "byteOffset": 8808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52848,
+      "byteOffset": 26424,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 79272,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "RootNode",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "grp1_2__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "d666586e2bad4094b210fe6acce8cfd9.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.6938509386607521,
+        -0.2385333036041403,
+        -0.6794650380934171,
+        0.0,
+        -0.17042601995011017,
+        0.9711343177293731,
+        -0.16689250627954996,
+        0.0,
+        0.6996612370594488,
+        -1.3877787807814457e-16,
+        -0.7144747394809996,
+        0.0,
+        2005.0413818359375,
+        1065.179931640625,
+        2107.432861328125,
+        1.0
+      ],
+      "name": "CINEMA_4D_Editor"
+    },
+    {
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        8.853385502494149e-08,
+        -5.551115123125783e-17,
+        0.999999999999996,
+        0.0,
+        0.999999999999996,
+        3.3306690738754696e-16,
+        -8.853385508045264e-08,
+        0.0,
+        -3.885780586188048e-16,
+        1.0,
+        0.0,
+        0.0,
+        -3.3069469928741455,
+        5.923445224761963,
+        -2.9277674684635713e-07,
+        1.0
+      ],
+      "name": "grp1"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -5.877471754111436e-39,
+        0.0,
+        -1.3050608935997046e-54,
+        1.0,
+        -2.220446049250313e-16,
+        0.0,
+        5.877471754111436e-39,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "grp1_2"
+    },
+    {
+      "mesh": 0,
+      "name": "grp1_2__0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

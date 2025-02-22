@@ -1,0 +1,8 @@
+Model Information:
+* title:	Bull
+* source:	https://sketchfab.com/3d-models/bull-05af8fbb33264c6195173e80affa56bc
+* author:	kenchoo (https://sketchfab.com/kenchoo)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
