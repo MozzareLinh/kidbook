@@ -1,16 +1,10 @@
-# appbook
+HỆ THỐNG SÁCH ẢNH 3D CHO TRẺ EM
 
-A new Flutter project.
+1. Mục đích: Xây dựng ứng dụng trên hệ điều hành Android, cho phép người dùng đăng nhập, đọc sách, truyện đa phương tiện, tương tác với các hình ảnh 3D của các con vật thông qua camera điện thoại, thiết lập và quản lí thời gian đọc sách, truyện của mình.
+2. Công cụ / Công nghệ sử dụng: Flutter, ARCore, Firebase, Draw.io, Visual Paradigm.
+3. Phân tích chức năng hệ thống:
+   ![Image](https://github.com/user-attachments/assets/f14c1594-cc68-49b5-9818-8f3bc36fbc6d)
+5. Sản phẩm:
+   ![Image](https://github.com/user-attachments/assets/da361b95-f721-4bb2-9ab0-1469de23552e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![Image](https://github.com/user-attachments/assets/a23446e8-6084-473b-a02a-3d3808be878a)
